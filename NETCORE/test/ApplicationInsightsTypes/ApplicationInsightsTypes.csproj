@@ -1,4 +1,4 @@
-﻿<Project Sdk="Microsoft.NET.Sdk">
+<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <VersionPrefix>1.0.2</VersionPrefix>
@@ -18,7 +18,7 @@
 
   
   <ItemGroup>
-    <PackageReference Include="Bond.Core.CSharp" Version="7.0.0" />
+    <PackageReference Include="Bond.Core.CSharp" Version="9.0.5" />
     <PackageReference Include="Bond.CSharp" Version="7.0.0" />    
   </ItemGroup>
 
